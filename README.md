@@ -5,6 +5,8 @@ A simple Library for styling your web page
 <p class="animation__animationName"></P>
 
 
-### Aailable Animations .
+### Available Animations .
 
 * bounce
+* flash 
+* shake
