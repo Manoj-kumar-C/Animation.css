@@ -1,0 +1,15 @@
+@keyframes animation__slideInRight {
+  from {
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animation__slideInRight {
+  animation-name: animation__slideInRight;
+  animation-duration: 4s;
+}

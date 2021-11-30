@@ -1,0 +1,15 @@
+@keyframes animation__slideInUp {
+  from {
+    transform: translate3d(0, 100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animation__slideInUp {
+  animation-name: animation__slideInUp;
+  animation-duration: 4s;
+}

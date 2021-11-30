@@ -1,0 +1,15 @@
+@keyframes animation__slideInDown {
+  from {
+    transform: translate3d(0, -100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animation__slideInDown {
+  animation-name: animation__slideInDown;
+  animation-duration: 4s;
+}
