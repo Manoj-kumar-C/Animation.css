@@ -43,3 +43,9 @@ A simple Library for styling your web page
 * bg-transparent
 * bg-light
 * bg-body
+
+
+##future animations 
+
+fade-in
+etc...
